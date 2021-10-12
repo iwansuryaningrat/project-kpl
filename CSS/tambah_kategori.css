@@ -1,0 +1,24 @@
+.page-wrapper .page-content .container-fluid table {
+    width: 100%;
+}
+
+.page-wrapper .page-content .container-fluid table, th, td {
+    border: solid black 1px;
+}
+
+.page-wrapper .page-content .container-fluid table td {
+    padding: 12px;
+}
+
+.page-wrapper .page-content .container-fluid table td label {
+    color: black;
+    font-size: 14px;
+}
+
+.page-wrapper .page-content .container-fluid table td form div input {
+    width: 100%;
+}
+
+.page-wrapper .page-content .container-fluid table td form div button {
+    width: 96px;
+}

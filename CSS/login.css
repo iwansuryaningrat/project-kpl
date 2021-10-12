@@ -1,0 +1,24 @@
+.login {
+    margin: auto;
+    width: 80%;
+}
+
+.judul {
+    margin-top: 24pt;
+    padding: 12pt;
+    text-align: center;
+}
+
+.akun {
+    padding: 8pt;
+}
+
+.akun label {
+    color: black;
+    margin-bottom: 4pt;
+}
+
+.submit {
+    margin: 12pt;
+    text-align: center;
+}

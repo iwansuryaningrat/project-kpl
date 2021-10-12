@@ -1,0 +1,26 @@
+  .page-wrapper .page-content .container-fluid i {
+      padding: 12px;
+  }  
+  
+  .page-wrapper .page-content .container-fluid span {
+      font-size: 26px;
+  }
+
+  .page-wrapper .page-content .container-fluid table {
+      width: 100%;
+  }
+
+  .page-wrapper .page-content .container-fluid table tr .statistik .container {
+      background-color: #0094FF;
+      padding: 24px;
+      border-radius: 24px;
+  }
+
+  .page-wrapper .page-content .container-fluid table tr .statistik .container div i {
+    position: absolute;
+    right: 0;
+  }
+
+  .page-wrapper .page-content .container-fluid table tr td {
+    padding: 12px;
+  }

@@ -1,0 +1,36 @@
+@page {
+    margin: 4%;
+}
+
+.table-data {
+    width: 100%;
+}
+
+.table-rekap {
+    width: 40%;
+}
+
+table {
+    page-break-inside:auto;
+}
+
+tr { 
+    page-break-inside:avoid; 
+}
+
+.table-data, .table-data th, .table-data td {
+    border: solid black 1px;
+}
+
+.table-data tr th  {
+    padding: 12px;
+}
+
+.table-data tr td {
+    padding: 4px;
+}
+
+.table-data {
+    text-align: center;
+    align-items: center;
+}

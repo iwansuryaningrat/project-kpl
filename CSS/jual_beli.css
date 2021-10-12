@@ -1,0 +1,64 @@
+.page-wrapper .page-content .container-fluid .form-popup form button {
+    width: 96px;
+}
+
+.page-wrapper .page-content .container-fluid .form-popup {  
+    display: none;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    border: 3px solid #f1f1f1;
+    background-color: white;
+    z-index: 9;
+}
+
+.page-wrapper .page-content .container-fluid .form-container {  
+    width: 360px;
+    padding: 24px;
+    text-align: center;
+    background-color: white;
+}
+
+.page-wrapper .page-content .container-fluid .form-container div button {
+    border: none;
+    margin-top: 24px;
+    width: 49%;
+}
+
+.page-wrapper .page-content .container-fluid table {
+    width: 100%;
+}
+
+.page-wrapper .page-content .container-fluid .table-data, .table-data th, .table-data td {
+    border: solid black 1px;
+}
+
+.page-wrapper .page-content .container-fluid table tr th  {
+    padding: 12px;
+}
+
+.page-wrapper .page-content .container-fluid table tr td {
+    padding: 4px;
+}
+
+.page-wrapper .page-content .container-fluid table tr .nama {
+    text-align: start;
+}
+
+.page-wrapper .page-content .container-fluid table {
+    margin-top: 12px;
+    text-align: center;
+    align-items: center;
+}
+
+.btn-jual {
+    background-color: #4ED964; 
+    color: white;
+    font-size: 14px;
+}
+
+.btn-beli {
+    background-color: #FF3A31; 
+    color: white;
+    font-size: 14px;
+}
